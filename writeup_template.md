@@ -1,6 +1,6 @@
 # <Challenge Name>
 
-  **Category:** <category>
+  **Category:** < category >
 
   **Description:** < description>
 
