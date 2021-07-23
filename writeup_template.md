@@ -12,5 +12,5 @@
    
   **Solution:**  <the entire solution>
   
-  **(optional) Flag: ** <put a slightly encrypted flag here. like ROT13.>
+  **(optional) Flag:** <put a slightly encrypted flag here. like ROT13.>
   
