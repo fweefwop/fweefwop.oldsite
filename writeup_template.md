@@ -1,4 +1,4 @@
-# <Challenge Name>
+# <Challenge Name>  -- put this file in a folder with with the CTF name and year. e.g.  PicoCTF2021.
 
   **Category:** < category >
 
